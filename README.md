@@ -25,3 +25,7 @@ The recommendations posted here: https:/www.cdc.gov/coronavirus/2019-ncov/php/fa
 * Removed recommendation to [encourage any organization that shares the facilities to also follow the considerations](https://github.com/LucyMcGowan/cdc-faith-text/blob/24734c6d5ef9d1e297b55babdb981c7c6c7d2f5b/cdc-faith-text.txt#L66)  
 * Removed suggestion to continue [providing congregants with spiritual or emotional care on a flexible or virtual basis](https://github.com/LucyMcGowan/cdc-faith-text/blob/24734c6d5ef9d1e297b55babdb981c7c6c7d2f5b/cdc-faith-text.txt#L72)  
 * Removed another mention of [waiting 24 hours before cleaning if there is a known COVID-19 exposure](https://github.com/LucyMcGowan/cdc-faith-text/blob/24734c6d5ef9d1e297b55babdb981c7c6c7d2f5b/cdc-faith-text.txt#L75)  
+
+### Coverage in media
+
+[Washington Post: White House and CDC remove coronavirus warnings about choirs in faith guidance](https://www.washingtonpost.com/health/white-house-and-cdc-remove-coronavirus-warnings-about-choirs-in-faith-guidance/2020/05/28/5d9c526e-a117-11ea-9590-1858a893bd59_story.html)
