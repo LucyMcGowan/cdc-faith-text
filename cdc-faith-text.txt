@@ -1,75 +1,70 @@
-Text from https:/www.cdc.gov/coronavirus/2019-ncov/php/faith-based.html Pulled on 2020-05-22
+Text from https:/www.cdc.gov/coronavirus/2019-ncov/php/faith-based.html Pulled on 2020-05-29
 
-CDC offers the following general considerations to help communities of faith discern how best to practice their beliefs while keeping their staff and congregations safe.  Millions of Americans embrace worship as an essential part of life.  For many faith traditions, gathering together for worship is at the heart of what it means to be a community of faith. But as Americans are now aware, gatherings present a risk for increasing the spread of COVID-19 during this public health emergency. CDC offers these suggestions for faith communities to consider, consistent with their own faith traditions, in the course of preparing to reconvene for in-person gatherings while still working to prevent the spread of COVID-19. Implementation should be guided by what is feasible, practical, and acceptable, and tailored to the needs and traditions of each community of faith.  The information offered is non-binding public health guidance for consideration only; it is not meant to regulate or prescribe standards for interactions of faith communities in houses of worship. Any decision to modify specific religious rites, rituals, and services should be made by religious leaders.  Specific preventive actions are provided as examples only.
+CDC offers the following general considerations to help communities of faith discern how best to practice their beliefs while keeping their staff and congregations safe.  Millions of Americans embrace worship as an essential part of life.  For many faith traditions, gathering together for worship is at the heart of what it means to be a community of faith. But as Americans are now aware, gatherings present a risk for increasing spread of COVID-19 during this Public Health Emergency. CDC offers these suggestions for faith communities to consider and accept, reject, or modify, consistent with their own faith traditions, in the course of preparing to reconvene for in-person gatherings while still working to prevent the spread of COVID-19.
+
+This guidance is not intended to infringe on rights protected by the First Amendment to the U.S. Constitution or any other federal law, including the Religious Freedom Restoration Act of 1993 (RFRA). The federal government may not prescribe standards for interactions of faith communities in houses of worship, and in accordance with the First Amendment, no faith community should be asked to adopt any mitigation strategies that are more stringent than the mitigation strategies asked of similarly situated entities or activities.
+
+In addition, we note that while many types of gatherings are important for civic and economic well-being, religious worship has particularly profound significance to communities and individuals, including as a right protected by the First Amendment. State and local authorities are reminded to take this vital right into account when establishing their own re-opening plans.
 
 Scaling Up Operations
 Establish and maintain communication with local and State authorities to determine current mitigation levels in your community.
 Provide protections for staff and congregants at higher risk for severe illness from COVID-19. Offer options for staff at higher risk for severe illness (including older adults and people of all ages with certain underlying medical conditions) that limit their exposure risk. Offer options for congregants at higher risk of severe illness that limit their exposure risk (e.g., remote participation in services).
-Consistent with applicable federal and state laws and regulations, put in place policies that protect the privacy and confidentiality of people at higher risk for severe illness regarding underlying medical conditions.
-Continue to provide congregants with spiritual and emotional care and counseling on a flexible or virtual basis or refer them to other sourcesfor counseling and support if necessary.
-Encourage any organizations that share or use the facilities to also follow these considerations if feasible.
+Consistent with applicable federal and State laws and regulations, put in place policies that protect the privacy and confidentiality of people at higher risk for severe illness regarding underlying medical conditions.
+Encourage any organizations that share or use the facilities to also follow these considerations as applicable.
 If your community provides social services in the facility as part of its mission, consult CDC’s information for schools and businesses and workplaces, as relevant, for helpful information.
-Monitoring and Preparing
+Safety Actions
 Promote healthy hygiene practices
 Encourage staff and congregants to maintain good hand hygiene, washing hands with soap and water for at least 20 seconds.
 Have adequate supplies to support healthy hygiene behaviors, including soap, hand sanitizer with at least 60 percent alcohol (for those who can safely use hand sanitizer), tissues, and no-touch trash cans.
 Encourage staff and congregants to cover coughs and sneezes with a tissue or use the inside of their elbow. Used tissues should be thrown in the trash and hands washed.
 Whenever soap and water are not readily available, hand sanitizer with at least 60% alcohol can be used.
-Consider posting signs on how to stop the spreadpdf icon of COVID-19 and promote everyday protective measurespdf icon, such as washing hands, covering coughs and sneezes, and properly wearing a face coveringimage icon.
+Consider posting signs on how to stop the spreadpdf icon of COVID-19 and how to promote everyday protective measurespdf icon, such as washing hands, covering coughs and sneezes, and properly wearing a face coveringimage icon.
 Cloth face coverings
 Encourage use of cloth face coverings among staff and congregants. Face coverings are most essential when social distancing is difficult. Note: Cloth face coverings should not be placed on children younger than 2 years old, anyone who has trouble breathing or is unconscious, and anyone who is incapacitated or otherwise unable to remove the cloth face covering without assistance. Cloth face coverings are meant to protect other people in case the wearer is unknowingly infected but does not have symptoms.
 Intensify cleaning, disinfection, and ventilation
 Clean and disinfect frequently touched surfaces at least daily and shared objects in between uses.
 Develop a schedule of increased, routine cleaning and disinfection.
 Avoid use of items that are not easily cleaned, sanitized, or disinfected.
-Ensure safe and correct application of disinfectants and keep them away from children. Use products that meet EPA disinfection criteriaexternal icon.
+Ensure safe and correct application of disinfectants and keep them away from children.
 Cleaning products should not be used near children, and staff should ensure that there is adequate ventilation when using these products to prevent children or themselves from inhaling toxic fumes.
-Ensure that ventilation systems operate properly and increase circulation of outdoor air as much as possible by opening windows and doors, using fans, etc. Do not open windows and doors if they pose a safety risk to children or adults using the facility.
-If your faith community offers multiple services, consider scheduling services far enough apart to allow time for cleaning and disinfecting high-touch surfaces between services.
-Take steps to ensure that all water systems and features (for example, drinking fountains, decorative fountains) are safe to use after a prolonged facility shutdown to minimize the risk of Legionnaires’ disease and other diseases associated with water.
+Ensure that ventilation systems operate properly and increase circulation of outdoor air as much as possible by opening windows and doors, using fans, etc. Do not open windows and doors if they pose a safety risk to children using the facility.
+If your faith community offers multiple services, consider scheduling services far enough apart to allow time for cleaning and disinfecting high-touch surfaces between services. Take steps to ensure that all water systems and features (for example, drinking fountains, decorative fountains) are safe to use after a prolonged facility shutdown to minimize the risk of Legionnaires’ disease and other diseases associated with water.
 Promote social distancing
-Take steps to limit the size of gatherings in accordance with the guidance and directives of state and local authorities.
-Promote social distancing at services and other gatherings, ensuring that clergy, staff, choir, volunteers and attendees at the services follow social distancing throughout services, as circumstances and faith traditions allow, to lessen their risk. This may include eliminating lines or queues, if a 6-foot distance between attendees is hard to ensure. Use of cloth face coverings should be encouraged when social distancing cannot be maintained.
+Take steps to limit the size of gatherings in accordance with the guidance and directives of state and local authorities and subject to the protections of the First Amendment and any other applicable federal law.
+Promote social distancing at services and other gatherings, ensuring that clergy, staff, choir, volunteers and attendees at the services follow social distancing, as circumstances and faith traditions allow, to lessen their risk.
 Consider holding services and gatherings in a large, well-ventilated area or outdoors, as circumstances and faith traditions allow.
-Consider appropriate mitigation measures, including taking steps to limit the size of gatherings and maintaining social distancing, at other gatherings such as funerals, weddings, religious education classes, youth events, support groups and any other programming, where consistent with the faith tradition. Use of cloth face coverings should be encouraged when social distancing cannot be maintained.
-Provide physical guides, such as tape on floors or walkways and signs on walls, to ensure that staff and congregants remain at least 6 feet apart in lines and at other times as needed (e.g. guides for creating “one-way routes” in hallways).
-Add additional services to weekly schedules to maintain social distancing at each service if appropriate and feasible. Consider video streaming or drive-in options for services and other gatherings and meetings.
-Consider suspending or at least decreasing use of a choir/musical ensembles and congregant singing, chanting, or reciting during services or other programming, if appropriate within the faith tradition. The act of singing may contribute to transmission of COVID-19, possibly through emission of aerosols.
-Consider having clergy hold virtual visits (by phone or online) instead of in homes or at the hospital except for certain compassionate care situations, such as end of life.
+Consider appropriate mitigation measures, including taking steps to limit the size of gatherings maintaining social distancing, at other gatherings such as funerals, weddings, religious education classes, youth events, support groups and any other programming, where consistent with the faith tradition.
+Provide physical guides, such as tape on floors or walkways and signs on walls, to ensure that staff and children remain at least 6 feet apart in lines and at other times (e.g. guides for creating “one-way routes” in hallways).
 Take steps to minimize community sharing of worship materials and other items
-Consistent with the community’s faith tradition, consider temporarily limiting the sharing of frequently touched objects that cannot be easily cleaned between persons, such as worship aids, prayer rugs, prayer books, hymnals, religious texts and other bulletins, books, shared cups, or other items received, passed or shared among congregants as part of services. Seek ways to uphold customs central to the practicing of one’s faith that limit shared exposure to congregants. Consider photocopying or electronically sharing prayers, songs, and texts via e-mail or other digital technologies.
-Modify the methods used to receive financial contributions. Consider a stationary collection box or electronic methods of collecting regular financial contributions instead of via shared collection trays or baskets.
+Consistent with the community’s faith tradition, consider temporarily limiting the sharing of frequently touched objects, such as worship aids, prayer rugs, prayer books, hymnals, religious texts and other bulletins, books, or other items passed or shared among congregants, and encouraging congregants to bring their own such items, if possible, or photocopying or projecting prayers, songs, and texts using electronic means.
+Modify the methods used to receive financial contributions. Consider a stationary collection box, the main, or electronic methods of collection regular financial contributions instead of shared collection trays or baskets.
 Consider whether physical contact (e.g., shaking hands, hugging, or kissing) can be limited among members of the faith community.
 If food is offered at any event, consider pre-packaged options, and avoid buffet or family-style meals if possible.
-Nursery/Childcare/Youth Groups
+Nursery/Childcare
 If a nursery or childcare will be provided during services and events, refer to CDC’s information on preventing the spread of COVID-19 in childcare settings and adapt as needed for your setting.
-Consider virtual activities and events in lieu of in-person youth group meetings and religious education classes, as feasible. If in-person events will occur, follow considerations for other types of gatherings and use several strategies to encourage behaviors that reduce the spread of COVID-19.
 If holding summer day camps, refer to CDC’s information on youth and summer camps and adapt as needed.
 Staffing and Training
 Train all clergy and staff in the above safety actions. Consider conducting the training virtually, or, if in-person, ensure that social distancing is maintained.
-
-Safety Actions
+Monitoring and Preparing
 Check for signs and symptoms
 Encourage staff or congregants who are sick or who have had close contact with a person with COVID-19 to stay home. Share CDC’s criteria for staying home with staff and congregants so that they know how to care for themselves and others. Consider posting signs at entrances with this information.
 Plan for when a staff member or congregant becomes sick
-Identify an area to separate anyone who exhibits COVID-like symptoms during hours of operation until they can be safely transported to their home or a healthcare facility. Ensure that children are not left without adult supervision.
+Identify an area to separate anyone who exhibits symptoms of COVID-19 during hours of operation, and ensure that children are not left without adult supervision.
+Establish procedures for safely transporting anyone who becomes sick at the facility to their home or a healthcare facility.
 Notify local health officials if a person diagnosed with COVID-19 has been in the facility and communicate with staff and congregants about potential exposure while maintaining confidentiality as required by the Americans with Disabilities Act (ADA)external icon or other applicable laws and in accordance with religious practices.
 Advise those with exposure to a person diagnosed with COVID-19 to stay home and self-monitor for symptoms, and follow CDC guidance if symptoms develop.
-Close off areas used by the sick person and do not use the area until after cleaning and disinfection. Wait at least 24 hours before cleaning and disinfecting. If 24 hours is not feasible, wait as long as possible. Ensure safe and correct application of disinfectants and keep disinfectant products away from children.
-Advise staff and congregants with symptoms of COVID-19 or who have tested positive for COVID-19 not to return to the facility until they have met CDC’s criteria to discontinue home isolation. 
+Close off areas used by the sick person and do not use the area until after cleaning and disinfection. Ensure safe and correct application of disinfectants and keep disinfectant products away from children.
+Advise staff and congregants with symptoms of COVID-19 or who have tested positive for COVID-19 not to return to the facility until they have met CDC’s criteria to discontinue home isolation.
 Maintain healthy operations
 Implement flexible sick leave and related flexible policies and practices for staff (e.g., allow work from home, if feasible), and provide requested reasonable accommodation absent undue hardship to individuals with disabilities under the Americans with Disabilities Act (ADA)external icon or other applicable laws and in accordance with religious practices.
 Monitor absenteeism and create a roster of trained back-up staff.
-Designate a staff person to be responsible for responding to COVID-19 concerns. Staff, clergy, volunteers, and congregants should know who this person is and how to contact them if they become sick or are around others diagnosed with COVID-19. This person should also be aware of state or local regulatory agency policies related to group gatherings and other applicable state and local public health guidance and directives.
+Designate a staff person to be responsible for responding to COVID-19 concerns. Staff, clergy, volunteers, and congregants should know who this person is and how to contact them if they become sick or are around others diagnosed with COVID-19. This person should also be aware of state or local regulatory agency policies related to group gatherings.
 As volunteers often perform important duties (e.g., greeters, ushers, childcare), consider similar monitoring, planning, and training for them. Consider that volunteer and staffing may need to increase to implement cleaning and safety protocols and to accommodate additional services with reduced attendance.
 Communicate clearly with staff and congregants about actions being taken to protect their health.
-Encourage any organizations that share or use the facilities to also follow these considerations. If your community provides social services in the facility as part of its mission, consult CDC’s information for schools and businesses and workplaces, as relevant, for helpful information.
 Signs and Messages
 Post signs in highly visible locations (e.g., entrances, restrooms, gathering halls/community rooms/gyms) that promote everyday protective measurespdf icon and describe how to stop the spreadpdf icon of germs (such as by properly washing hands and properly wearing a cloth face coveringimage icon).
 Include messages (for example, videos) about behaviors that prevent the spread of COVID-19 when communicating with staff and congregants (such as in emails and on community websites and social media accounts).
 Find freely available CDC print and digital resources on CDC’s communications resources main page.
-Support Coping and Resilience
-Continue to provide congregants with spiritual and emotional care and counseling on a flexible or virtual basis or refer them to other sourcesfor counseling and support.
 Closing
-Check State and localexternal icon health department notices daily about transmission in the community and adjust operations
-In the event a person diagnosed with COVID-19 is determined to have been in the building and poses a risk to the community, it is strongly suggested to dismiss attendees, then properly clean and disinfect the area and the building where the individual was present before resuming activities. Wait at least 24 hours before cleaning and disinfecting. If 24 hours is not feasible, wait as long as possible.
+Check state and localexternal icon health department notices daily about transmission in the community and adjust operations.
+In the event a person diagnosed with COVID-19 is determined to have been in the building and poses a risk to the community, it is strongly suggested to dismiss attendees, then properly clean and disinfect the area and the building where the individual was present before resuming activities.
